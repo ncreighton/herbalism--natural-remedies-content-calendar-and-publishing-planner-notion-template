@@ -1,2 +1,28 @@
-# herbalism--natural-remedies-content-calendar-and-publishing-planner-notion-template
-Multi-channel content planning with approval workflows and performance analytics. Built for Herbalism &amp; Natural Remedies specific content types and channels.
+# Herbalism & Natural Remedies Content Calendar and Publishing Planner Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/cNi7sL6mXaQAbRScDWd0l0M)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/cNi7sL6mXaQAbRScDWd0l0M)
+
